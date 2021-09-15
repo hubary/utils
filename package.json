@@ -1,6 +1,6 @@
 {
   "name": "@hubary/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides a practical commonjs method for the project",
   "main": "lib/index.js",
   "private": false,
