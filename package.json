@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node index.js",
     "build": "rollup -c",
-    "lib": "rimraf dist && babel lib -d dist"
+    "lib": "rimraf dist && babel lib -d dist",
+    "sync": "cnpm sync @hubary/utils"
   },
   "author": "hubary",
   "homepage": "http://hubary.gitee.io/blog/",
